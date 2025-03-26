@@ -1,0 +1,11 @@
+{
+  "name": "excel-to-sql-script",
+  "version": "1.3.0",
+  "main": "src/runAll.js",
+  "scripts": {
+    "start": "node src/runAll.js"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
